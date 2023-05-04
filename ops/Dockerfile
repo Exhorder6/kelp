@@ -1,4 +1,4 @@
-FROM golang:1.12.7
+FROM golang:1.19.8
 
 LABEL maintainer="Nikhil Saraf <Github: @nikhilsaraf>"
 
